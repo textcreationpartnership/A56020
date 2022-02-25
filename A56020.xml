@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Proposal of the poets to raise Their Majesties a sum of money humbly recommended to the consideration of the Honourable House.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56020</idno>
+            <idno type="STC">Wing P3709</idno>
+            <idno type="STC">ESTC R26906</idno>
+            <idno type="EEBO-CITATION">09574630</idno>
+            <idno type="OCLC">ocm 09574630</idno>
+            <idno type="VID">43699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1338:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Proposal of the poets to raise Their Majesties a sum of money humbly recommended to the consideration of the Honourable House.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the assigns of Mr. Jordan and Tubman deceased,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poets, English --  Early modern, 1500-1700 --  Anecdotes</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43699:1"/>
+            <pb n="1" facs="tcp:43699:1" rendition="simple:additions"/>
+            <head>A PROPOSAL OF THE POETS To raiſe Their MAJESTIES A Sum of Money.</head>
+            <head type="sub">Humbly recommended to the Conſi<g ref="char:EOLhyphen"/>deration of the Honourable Houſe.</head>
+            <p>AT this critical conjuncture, when every good ſubject ought to ſet his Hand to the Plow, and uſe his utmoſt endeavours to ſupport the preſent Eſtabliſhment, we have not been want<g ref="char:EOLhyphen"/>ing in our reſpective Stations to ſhew the ſincerity of our Af<g ref="char:EOLhyphen"/>fection to it. As Fighting was never the Talent of our Tribe, we don't pretend to have obliged the Nation that way; nor dare we own our ſelves guilty of much praying, for that too is out of our Sphere; but with what alacrity and chearfulneſs we have drawn our Pens in their Majeſties quarrel, let
+<hi>Paul</hi>'s <hi>Church Yard</hi> and <hi>Weſtminſter-Hall</hi> ſpeak. No ſooner is any Victory gained by our Forces in <hi>Elanders,</hi> but we take the Hint immediately, and Record it in Metre: Nay we may without vanity affirm, that cou'd Ryming have done the buſineſs, the Engliſh had long ago beat their Drums through <hi>Paris,</hi> ſent the mighty Monarch to Graſs, and reduced the <hi>Louvre</hi> and <hi>Verſailles</hi> to Aſhes. What is a farther indication of our good will to the Go<g ref="char:EOLhyphen"/>vernment, we have not only rymed but propheſied for it, and if in the heat of inſpiration we have laid the Scene of Conqueſt ſomewhat too early, and foretold Triumphs that did not happen at the time appointed, 'tis an errour on the right ſide, and we hope the Kingdom
+<pb n="2" facs="tcp:43699:2"/>will as readily excuſe it in us, as they have done ſome modern In<g ref="char:EOLhyphen"/>terpreters of the Revelations, who out of their great zeal to the Pro<g ref="char:EOLhyphen"/>teſtant Cauſe Propheſied the utter downfal of Antichriſt wou'd cer<g ref="char:EOLhyphen"/>tainly come to paſs laſt-year; tho' to our great ſorrow we all ſee that the Man of Sin is ſtill alive and luſty, and in all probability will not be induced to break up Houſe-keeping under two or three year more.</p>
+            <p>Gentlemen,</p>
+            <p>You have made us happy under a victorious Prince, whoſe immor<g ref="char:EOLhyphen"/>tal acquiſitions employ our Muſes daily. You have preſerved our Religion, and 'tis certain we Poets have a regard to that above all things; you have likewiſe ſecured us in our properties, and how deeply that point concerns the Sons of Ryme and Harmony we need not mention. For this therefore, and ſeveral other important con<g ref="char:EOLhyphen"/>ſiderations, our Fraternity at the laſt general meeting, after having conſidered of ſeveral ways to expreſs their gratitude, did unanimouſly reſolve to do what none of their Predeceſſours ever dreamt of, and in caſe your illuſtrious aſſembly ſhall think fit to approve of the pro<g ref="char:EOLhyphen"/>poſal, offer to raiſe his Majeſty ſix hundred thouſand pound, and that too out of the Territories of Poetry. And tho' as all our an<g ref="char:EOLhyphen"/>cient Papers inform us, <hi>Parnaſſus</hi> is <hi>Apollo</hi>'s <hi>peculiar,</hi> and never paid a farthing to any Government before, yet to teſtifie our Loyalty and Acknowledgement for the mighty things that have been done for the Nation of late, we ſhall chearfully contribute all that in us lyes, to the eaſe, benefit and advantage of the publick.</p>
+            <p>We need not remind you that Poets in all Ages and Countries of the World have been the ſole diſpenſers of Fame and Glory. Now this being an Heroick Age, wherein every perſon is ambitious of Glo<g ref="char:EOLhyphen"/>ry more or leſs, and yet wou'd rather purchaſe it with his Money at home, notwithſtanding the preſent ſcarcity thereof, than acquire it by his Merits abroad, we humbly crave leave that under your au<g ref="char:EOLhyphen"/>thority and protection we may be impowr'd to Erect a <hi>Glory Office</hi> in all the principal Corporations and Towns in the Kingdom.</p>
+            <p>We have ſo contrived matters that this Office ſhall hook in all ſorts of Cuſtomers, Lords and Peaſants, Court Ladies and Milk<g ref="char:EOLhyphen"/>maids, Clergy and Laity, in ſhort, the whole populace, by what Names or Titles ſoever dignified and diſtinguiſhed.</p>
+            <p>As there are Maſons in the City ſo dexterous at their Trade, that they can build a Houſe to laſt preciſely the time you covenant for, nay can ſo contrive matters, that the Roof ſhall tumble the very mi<g ref="char:EOLhyphen"/>nute after the Leaſe is expired: ſo in our myſtery we have Brethren that can write for a Day, for a Week, for a Month, for a Year, and ſo till Doomſday if the Chapman will go up to the price of it.</p>
+            <p>In <hi>Grub ſtreet</hi> they ſeldom write for above a Week. Some of the
+<pb n="3" facs="tcp:43699:2"/>better ſort in <hi>Pauls Church yard</hi> and about th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mple,</hi> with good look<g ref="char:EOLhyphen"/>ing after may laſt half a dozen years and upwards. The Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <hi>Co<g ref="char:EOLhyphen"/>vent-garden</hi> hold a ſhorter or longer ſpace, according as they mix their colours, and ſome few among them pretend to confer immortality, and to endure for ever.</p>
+            <p>Now in proportion to theſe different Talents of Writing the ſeve<g ref="char:EOLhyphen"/>ral prices are to be regulated. Inferiour perſons may have their Twelve pennyworth of Glory, (and under that rate we are agreed to ſell none) and becauſe Glory of that cheap compoſition cannot be ſuppoſed to keep long, we adviſe them to renew it twice a year. This branch of the Revenue is to be managed by the good people of <hi>Grubſtreet,</hi> and the Commodity thus retailed is chiefly calculated for the Meridian of Dutch Troopers, Prentices, Milk-maids, Porters, Footmen, Farmers Eldeſt Sons, and Semſtreſſes.</p>
+            <p>The middle ſort of Glory from half a Crown up to twenty Shillings is to be diſtributed by the City Poet for the time being, and his aſſi<g ref="char:EOLhyphen"/>ſtants. And this may indifferently ſerve Vintners that can palm a new Wine upon the World, Phyſitians that have broached a new Re<g ref="char:EOLhyphen"/>ligion, poor Townſmens Daughters that have ſnapt an Univerſity Fortune, Country Attorneys that can ſet a whole Corporation toge<g ref="char:EOLhyphen"/>ther by the Ears, prolifick Divines that to their great renown have puiſſantly begotten twenty Children, projectors of Pacing Saddles, and all ſuch uſeful inventions to the publick, Schoolmaſters that have floged their thouſand younger Brothers that have ſtole great fortunes, puny Tradeſmen that from Pins and Pack-thread have ſcuffled their way into a Common Council-ſhip. And not to mention any more parti<g ref="char:EOLhyphen"/>culars, all people of middle condition who have done any thing famous and remarkable in their generation.</p>
+            <p>The higheſt pitch of Glory, going under the name of <hi>Elixir Immor<g ref="char:EOLhyphen"/>talitatis</hi> will be onely ſold at <hi>Wills</hi> Coffee-houſe in <hi>Covent-garden,</hi> and will make the purchaſers free of Epiſtles Dedicatory, Panegyricks, with the great priviledge and emoluments thereunto belonging. The price of it is juſt twenty Guineas, (wonderful cheap all things conſidered) and we doubt not will draw in infinite numbers to bid for it, ſuch as Favourites and Courtiers, who wou'd rather buy glory at any rate, than put themſelves to the expence of obtaining it by their own deſerts. Penurious Aldermen who having no inclination to purchaſe reputation by building of Alms-houſes, may here get it at a cheaper rate. Lords Pages that have advanced themſelves to a Sea Commiſſion, but have a mortal averſion to Wooden Legs. The fine dreſſing talkative Sparks of the Town that take Garriſons, and model Kingdoms over their Claret. In fine all thoſe perſons who have a paſſion for Fume and Glory, but cannot be perſuaded to ſacri<g ref="char:EOLhyphen"/>fice
+<pb n="4" facs="tcp:43699:3"/>their eaſe, and pleaſures, or venture a broken Shin for its ſake. The only fear is, that to ſave charges ſome thrifty people will turn Poets in their own defence; but this inconvenience may eaſily be ob<g ref="char:EOLhyphen"/>viated by conſtituting a Supream Office here in Town, which ſhall have full Authority to place and diſplace as they ſhall ſee fit, and likewiſe to regulate the numbers of the City and Country Poets, as they have prudently done the numbers of Chairmen at <hi>Whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall.</hi>
+            </p>
+            <p>We humbly conceive that the revenue belonging to this Office will in a years time with prudent management raiſe if not the whole, yet at leaſt four parts of the ſum propoſed. However if it ſhould happen to fall ſhort of what we expect (for ſince the Gentry in two Welch Counties have lately renounced their Gentility to ſave twenty ſhillings a quarter, we may probably imagine that ſome per<g ref="char:EOLhyphen"/>ſons for all their pretended Courtſhip of <hi>Glory</hi> will rather let it alone than turn purchaſers) it cannot fail of being made up by the follow<g ref="char:EOLhyphen"/>ing expedients. We therefore deſire that an <hi>Epithalamium Office</hi> may be erected ſomewhere near the Commons, were all people that pay Scot and Lot to the Pariſh may be obliged to come for their Wed<g ref="char:EOLhyphen"/>ding Ballad, (without which no Parſon ſhall offer to Marry them under penalty of incuring a Poetical Cenſure) and that they ſhall pay either according to their quality, or the goodneſs of the verſe. In the ſecond place we propoſe an <hi>Elegy-Office,</hi> where not only Epitaphs of all ſorts may be had (without which it ſhall not be lawful to bury the party deceaſed) but alſo Funeral ditties upon Ladies Lap-dogs, Parrots, Monkeys, Lord Mayor's and Alderman's Horſes defunct: adjoining to which may be a <hi>Nativity-Office,</hi> where the Children of all ſuch Parents that are qualified as above mentioned, may have their Nativities Regiſtred in Ryme, and their Fortunes told into the bargain, which laſt favour will ſave their Friends the expence of go<g ref="char:EOLhyphen"/>ing into <hi>Morefield,</hi> or to Dr. <hi>Saffold</hi>'s worthy Succeſſour. For be it known to all the World, the Aſtrologers interlope upon the Poets, when they pretend to Prrophecy.</p>
+            <p>Theſe Offices you may order to continue ſo long as the War laſts, whereby their Majeſties ſhall receive ſix hundred thouſand pound yearly. We need not ſay any thing of the Circulation of Wit, the em<g ref="char:EOLhyphen"/>ploying of many indigent perſons, and laſtly the great encouragement of the Paper Manufacture, all which will by this means be promoted and advanced. VVe only preſume to lay our propoſal at your Feet, and ſubſcribe our ſelves Your moſt obedient Servants the <hi>Poets.</hi>
+            </p>
+            <p>We have ordered the City Poet, who drew up this Propoſal, to communicate this deſign to our dear Brethren the Poets of <hi>Holland,</hi> and to the reſt of the Confederates whom it may concern.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Aſſigns of Mr. <hi>Jordan</hi> and <hi>Tubman</hi> deceaſed.</p>
+            <pb facs="tcp:43699:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
